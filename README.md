@@ -1,0 +1,1 @@
+This project aims to determine the most effective distribution of weights for a portfolio consisting of 10 stocks. The objective is to identify the combination of weights that minimizes portfolio risk while maximizing portfolio returns.
